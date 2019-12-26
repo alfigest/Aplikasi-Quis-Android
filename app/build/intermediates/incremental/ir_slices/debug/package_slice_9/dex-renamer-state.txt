@@ -1,0 +1,4 @@
+#Sat Dec 21 14:45:07 ICT 2019
+base.0=D\:\\ANDROID CODING\\Quis-SQLIte-master\\QuizSQLite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
